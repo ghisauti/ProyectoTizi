@@ -1,0 +1,40 @@
+#fondo{
+    background-color: #e5dde6;
+}
+
+.titulo{
+    font-size: 50px;
+}
+
+.logo_nike{
+	height: 5%;
+	width: 5%;
+}
+.foto_inicio{
+    width: 100%;
+    right: 100%;
+    display: block;
+    margin: auto;
+}
+.tamanio_letra{
+	font-size: 20px;
+	font-family: sans-serif;
+	text-align: center;
+}
+h1{
+    font-size: 80px;
+    text-align:;
+}
+#fondo{
+    background-color: #ffffff;
+}
+.footer{
+    background-color: rgb(175, 132, 45);
+    position: absolute;
+    height: 130px;
+    width: 1300px;
+    right: 2px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #ffffff;
+}
